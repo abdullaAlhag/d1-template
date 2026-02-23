@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "d1-template",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "b42349ac-2ef7-4108-a716-d95648404cc6",
+			"database_name": "ecommerce-db"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
